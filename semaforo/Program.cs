@@ -12,7 +12,7 @@ namespace Semáforo
             if(cordosem == "vermelho") {
                 Console.WriteLine("Pare!");
                     }
-            if(cordosem == "amarelo") {
+            else if(cordosem == "amarelo") {
                 Console.WriteLine("Reduza e Pare!");
                     }
             else {
