@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\backend giovanni\ProjetosEmC\exercicio idade em ano\obj\Debug\netcoreapp3.1\exercicio idade em ano.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\backend giovanni\ProjetosEmC\exercicio idade em ano\obj\Debug\netcoreapp3.1\exercicio idade em ano.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\backend giovanni\ProjetosEmC\exercicio idade em ano\obj\Debug\netcoreapp3.1\exercicio idade em ano.AssemblyInfo.cs
+C:\Users\dev\Desktop\backend giovanni\ProjetosEmC\exercicio idade em ano\obj\Debug\netcoreapp3.1\exercicio idade em ano.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\backend giovanni\ProjetosEmC\exercicio idade em ano\bin\Debug\netcoreapp3.1\exercicio idade em ano.exe
+C:\Users\dev\Desktop\backend giovanni\ProjetosEmC\exercicio idade em ano\bin\Debug\netcoreapp3.1\exercicio idade em ano.deps.json
+C:\Users\dev\Desktop\backend giovanni\ProjetosEmC\exercicio idade em ano\bin\Debug\netcoreapp3.1\exercicio idade em ano.runtimeconfig.json
+C:\Users\dev\Desktop\backend giovanni\ProjetosEmC\exercicio idade em ano\bin\Debug\netcoreapp3.1\exercicio idade em ano.runtimeconfig.dev.json
+C:\Users\dev\Desktop\backend giovanni\ProjetosEmC\exercicio idade em ano\bin\Debug\netcoreapp3.1\exercicio idade em ano.dll
+C:\Users\dev\Desktop\backend giovanni\ProjetosEmC\exercicio idade em ano\bin\Debug\netcoreapp3.1\exercicio idade em ano.pdb
+C:\Users\dev\Desktop\backend giovanni\ProjetosEmC\exercicio idade em ano\obj\Debug\netcoreapp3.1\exercicio idade em ano.dll
+C:\Users\dev\Desktop\backend giovanni\ProjetosEmC\exercicio idade em ano\obj\Debug\netcoreapp3.1\exercicio idade em ano.pdb
+C:\Users\dev\Desktop\backend giovanni\ProjetosEmC\exercicio idade em ano\obj\Debug\netcoreapp3.1\exercicio idade em ano.genruntimeconfig.cache

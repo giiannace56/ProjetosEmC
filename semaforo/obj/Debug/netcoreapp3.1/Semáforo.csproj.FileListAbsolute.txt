@@ -24,3 +24,16 @@ C:\Users\giian\Desktop\back-end\console\ProjetosEmC\semaforo\obj\Debug\netcoreap
 C:\Users\giian\Desktop\back-end\console\ProjetosEmC\semaforo\obj\Debug\netcoreapp3.1\Semáforo.dll
 C:\Users\giian\Desktop\back-end\console\ProjetosEmC\semaforo\obj\Debug\netcoreapp3.1\Semáforo.pdb
 C:\Users\giian\Desktop\back-end\console\ProjetosEmC\semaforo\obj\Debug\netcoreapp3.1\Semáforo.genruntimeconfig.cache
+C:\Users\dev\Desktop\backend giovanni\ProjetosEmC\semaforo\bin\Debug\netcoreapp3.1\Semáforo.exe
+C:\Users\dev\Desktop\backend giovanni\ProjetosEmC\semaforo\bin\Debug\netcoreapp3.1\Semáforo.deps.json
+C:\Users\dev\Desktop\backend giovanni\ProjetosEmC\semaforo\bin\Debug\netcoreapp3.1\Semáforo.runtimeconfig.json
+C:\Users\dev\Desktop\backend giovanni\ProjetosEmC\semaforo\bin\Debug\netcoreapp3.1\Semáforo.runtimeconfig.dev.json
+C:\Users\dev\Desktop\backend giovanni\ProjetosEmC\semaforo\bin\Debug\netcoreapp3.1\Semáforo.dll
+C:\Users\dev\Desktop\backend giovanni\ProjetosEmC\semaforo\bin\Debug\netcoreapp3.1\Semáforo.pdb
+C:\Users\dev\Desktop\backend giovanni\ProjetosEmC\semaforo\obj\Debug\netcoreapp3.1\Semáforo.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\backend giovanni\ProjetosEmC\semaforo\obj\Debug\netcoreapp3.1\Semáforo.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\backend giovanni\ProjetosEmC\semaforo\obj\Debug\netcoreapp3.1\Semáforo.AssemblyInfo.cs
+C:\Users\dev\Desktop\backend giovanni\ProjetosEmC\semaforo\obj\Debug\netcoreapp3.1\Semáforo.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\backend giovanni\ProjetosEmC\semaforo\obj\Debug\netcoreapp3.1\Semáforo.dll
+C:\Users\dev\Desktop\backend giovanni\ProjetosEmC\semaforo\obj\Debug\netcoreapp3.1\Semáforo.pdb
+C:\Users\dev\Desktop\backend giovanni\ProjetosEmC\semaforo\obj\Debug\netcoreapp3.1\Semáforo.genruntimeconfig.cache
